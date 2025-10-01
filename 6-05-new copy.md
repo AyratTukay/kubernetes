@@ -17,9 +17,7 @@ minikube start
 kubectl get pods --all-namespaces
 ```
 
-![](kubernetes/img/img1.png)
-
-
+![](img/img1.png)
 
 ---
 ### Задание 2
