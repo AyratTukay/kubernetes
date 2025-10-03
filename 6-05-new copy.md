@@ -19,6 +19,7 @@ kubectl get pods --all-namespaces
 
 ![](img/img1.png)
 
+
 ---
 ### Задание 2
 
