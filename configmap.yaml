@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: nginx-config
+  name: nginx-configmap
 data:
   nginx.conf: |
     location / {
-        add_header Content-Type text/plain;
-        return 200 'Hello from k8s';
+      add_header Content-Type text/plain;
+      return 200 'Hello from k9s';
     }
